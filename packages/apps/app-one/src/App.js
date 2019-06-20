@@ -5,6 +5,8 @@ import './App.css';
 
 import {CompOne, CompTwo} from '@project/components';
 
+import firebase from "firebase";
+
 class App extends Component {
 	render() {
 		return (
